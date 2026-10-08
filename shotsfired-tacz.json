@@ -1,0 +1,588 @@
+{
+  "TACZ": {
+    "tacz:deagle": {
+      "item": "deceasedcraft:bullet_casing_ae50",
+      "chance": 70
+    },
+    "tacz:kar98": {
+      "item": "deceasedcraft:bullet_casing_30_06",
+      "chance": 60
+    },
+    "tacz:timeless50": {
+      "item": "deceasedcraft:bullet_casing_ae50",
+      "chance": 70
+    },
+    "tacz:glock_17": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "tacz:deagle_golden": {
+      "item": "deceasedcraft:bullet_casing_357magnum",
+      "chance": 70
+    },
+    "tacz:m1911": {
+      "item": "deceasedcraft:bullet_casing_45acp",
+      "chance": 80
+    },
+    "tacz:hk_mk23": {
+      "item": "deceasedcraft:bullet_casing_45acp",
+      "chance": 80
+    },
+    "tacz:cz75": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "tacz:b93r": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "tacz:m9a4": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "tacz:p320": {
+      "item": "deceasedcraft:bullet_casing_45acp",
+      "chance": 80
+    },
+    "tacz:m700": {
+      "item": "deceasedcraft:bullet_casing_30_06",
+      "chance": 60
+    },
+    "tacz:ai_awp": {
+      "item": "deceasedcraft:bullet_casing_338",
+      "chance": 50
+    },
+    "tacz:m107": {
+      "item": "deceasedcraft:bullet_casing_50bmg",
+      "chance": 40
+    },
+    "tacz:m95": {
+      "item": "deceasedcraft:bullet_casing_50bmg",
+      "chance": 40
+    },
+    "tacz:sks_tactical": {
+      "item": "deceasedcraft:bullet_casing_762x39",
+      "chance": 70
+    },
+    "tacz:type_81": {
+      "item": "deceasedcraft:bullet_casing_762x39",
+      "chance": 70
+    },
+    "tacz:qbz_95": {
+      "item": "deceasedcraft:bullet_casing_58x42",
+      "chance": 70
+    },
+    "tacz:ak47": {
+      "item": "deceasedcraft:bullet_casing_762x39",
+      "chance": 70
+    },
+    "tacz:hk416d": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "tacz:m4a1": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "tacz:g36k": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "tacz:m16a1": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "tacz:spr15hb": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "tacz:hk_g3": {
+      "item": "deceasedcraft:bullet_casing_308",
+      "chance": 60
+    },
+    "tacz:m16a4": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "tacz:scar_l": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "tacz:scar_h": {
+      "item": "deceasedcraft:bullet_casing_308",
+      "chance": 60
+    },
+    "tacz:mk14": {
+      "item": "deceasedcraft:bullet_casing_308",
+      "chance": 60
+    },
+    "tacz:aug": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "tacz:m870": {
+      "item": "deceasedcraft:bullet_casing_12g",
+      "chance": 60
+    },
+    "tacz:aa12": {
+      "item": "deceasedcraft:bullet_casing_12g",
+      "chance": 60
+    },
+    "tacz:ump45": {
+      "item": "deceasedcraft:bullet_casing_45acp",
+      "chance": 80
+    },
+    "tacz:vector45": {
+      "item": "deceasedcraft:bullet_casing_45acp",
+      "chance": 80
+    },
+    "tacz:hk_mp5a5": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "tacz:uzi": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "tacz:p90": {
+      "item": "deceasedcraft:bullet_casing_57x28",
+      "chance": 70
+    },
+    "tacz:m249": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "tacz:rpk": {
+      "item": "deceasedcraft:bullet_casing_762x39",
+      "chance": 70
+    },
+    "tacz:minigun": {
+      "item": "deceasedcraft:bullet_casing_308",
+      "chance": 60
+    },
+    "suffuse:tec9": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "suffuse:tti2011": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "suffuse:tt33": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "suffuse:viper2011": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "suffuse:aw50": {
+      "item": "deceasedcraft:bullet_casing_50bmg",
+      "chance": 40
+    },
+    "suffuse:gm6": {
+      "item": "deceasedcraft:bullet_casing_50bmg",
+      "chance": 40
+    },
+    "suffuse:m200": {
+      "item": "deceasedcraft:bullet_casing_50bmg",
+      "chance": 40
+    },
+    "suffuse:qbz951s": {
+      "item": "deceasedcraft:bullet_casing_58x42",
+      "chance": 70
+    },
+    "suffuse:qbz192": {
+      "item": "deceasedcraft:bullet_casing_58x42",
+      "chance": 70
+    },
+    "suffuse:an94": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "suffuse:xm7": {
+      "item": "deceasedcraft:bullet_casing_762x54",
+      "chance": 70
+    },
+    "suffuse:qbu191": {
+      "item": "deceasedcraft:bullet_casing_58x42",
+      "chance": 70
+    },
+    "suffuse:n4": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "suffuse:qbz951": {
+      "item": "deceasedcraft:bullet_casing_58x42",
+      "chance": 70
+    },
+    "suffuse:ash12": {
+      "item": "deceasedcraft:bullet_casing_50bmg",
+      "chance": 40
+    },
+    "suffuse:aks74u": {
+      "item": "deceasedcraft:bullet_casing_762x39",
+      "chance": 70
+    },
+    "suffuse:pp19": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "suffuse:ump45": {
+      "item": "deceasedcraft:bullet_casing_45acp",
+      "chance": 80
+    },
+    "suffuse:pkp": {
+      "item": "deceasedcraft:bullet_casing_762x54",
+      "chance": 70
+    },
+    "rebel:hsp": {
+      "item": "deceasedcraft:bullet_casing_500mag",
+      "chance": 50
+    },
+    "rebel:lss": {
+      "item": "deceasedcraft:bullet_casing_45acp",
+      "chance": 80
+    },
+    "rebel:lpm2020": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "rebel:asr": {
+      "item": "deceasedcraft:bullet_casing_762x39",
+      "chance": 70
+    },
+    "rebel:rs1": {
+      "item": "deceasedcraft:bullet_casing_12g",
+      "chance": 60
+    },
+    "rebel:csg19b": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "gz:t97nsrg3": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "gz:patriots": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "gz:classic_m1a": {
+      "item": "deceasedcraft:bullet_casing_308",
+      "chance": 60
+    },
+    "gz:m700_carbon": {
+      "item": "deceasedcraft:bullet_casing_30_06",
+      "chance": 60
+    },
+    "gz:police_m4": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "gz:t81s": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "gz:tactical_t81s": {
+      "item": "deceasedcraft:bullet_casing_762x39",
+      "chance": 70
+    },
+    "gz:m16a2": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "gz:military_p416": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "gz:lightweight_m4": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "gz:black_market_akm": {
+      "item": "deceasedcraft:bullet_casing_762x39",
+      "chance": 70
+    },
+    "gz:custom_p416_g3": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "gz:m4_exotic_t1": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "gz:auga3cqc": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "gz:lvoa_c": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "gz:m4_exotic_t2": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "gz:military_ak74": {
+      "item": "deceasedcraft:bullet_casing_762x39",
+      "chance": 70
+    },
+    "gz:tactical_sasg_12k": {
+      "item": "deceasedcraft:bullet_casing_12g",
+      "chance": 60
+    },
+    "gz:cargo_terminal": {
+      "item": "deceasedcraft:bullet_casing_12g",
+      "chance": 60
+    },
+    "gz:sasg_12": {
+      "item": "deceasedcraft:bullet_casing_12g",
+      "chance": 60
+    },
+    "gz:1st_vector45acp": {
+      "item": "deceasedcraft:bullet_casing_45acp",
+      "chance": 80
+    },
+    "gz:pp19_01": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "gz:mp5st": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "gz:tactical_pp19_01": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "gz:enhanced_pp19": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "gz:pp19": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "gz:t5smg": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "gz:aug_9mm": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "gz:navy_mp5n": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "gz:mp5a2": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "gz:black_market_rpk74": {
+      "item": "deceasedcraft:bullet_casing_762x39",
+      "chance": 70
+    },
+    "gz:t81lmg": {
+      "item": "deceasedcraft:bullet_casing_762x39",
+      "chance": 70
+    },
+    "gz:classic_rpk74": {
+      "item": "deceasedcraft:bullet_casing_762x39",
+      "chance": 70
+    },
+    "bf1:obrez": {
+      "item": "deceasedcraft:bullet_casing_ae50",
+      "chance": 70
+    },
+    "bf1:welrod": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "bf1:tg1918": {
+      "item": "deceasedcraft:bullet_casing_50bmg",
+      "chance": 40
+    },
+    "bf1:martini": {
+      "item": "deceasedcraft:bullet_casing_338",
+      "chance": 50
+    },
+    "bf1:m1916": {
+      "item": "deceasedcraft:bullet_casing_308",
+      "chance": 70
+    },
+    "bf1:vg15": {
+      "item": "deceasedcraft:bullet_casing_762x39",
+      "chance": 70
+    },
+    "bf1:model10": {
+      "item": "deceasedcraft:bullet_casing_12g",
+      "chance": 60
+    },
+    "bf1:zk383": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "bf1:smg0818": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "bf1:vp1915": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "bf1:lewis": {
+      "item": "deceasedcraft:bullet_casing_308",
+      "chance": 60
+    },
+    "bf1:mg0815": {
+      "item": "deceasedcraft:bullet_casing_762x54",
+      "chance": 60
+    },
+    "bf1:man_m95": {
+      "item": "deceasedcraft:bullet_casing_30_06",
+      "chance": 60
+    },
+    "suffuse:usp45": {
+      "item": "deceasedcraft:bullet_casing_45acp",
+      "chance": 80
+    },
+    "suffuse:usp45_black": {
+      "item": "deceasedcraft:bullet_casing_45acp",
+      "chance": 80
+    },
+    "suffuse:np762": {
+      "item": "deceasedcraft:bullet_casing_45acp",
+      "chance": 80
+    },
+    "tacz:spas_12": {
+      "item": "deceasedcraft:bullet_casing_12g",
+      "chance": 60
+    },
+    "suffuse:spas12": {
+      "item": "deceasedcraft:bullet_casing_12g",
+      "chance": 60
+    },
+    "tacz:m1014": {
+      "item": "deceasedcraft:bullet_casing_12g",
+      "chance": 60
+    },
+    "bf1:sjogren": {
+      "item": "deceasedcraft:bullet_casing_12g",
+      "chance": 60
+    },
+    "bf1:chauchat": {
+      "item": "deceasedcraft:bullet_casing_30_06",
+      "chance": 60
+    },
+    "bf1:de_lisle": {
+      "item": "deceasedcraft:bullet_casing_45acp",
+      "chance": 80
+    },
+    "bf1:liu": {
+      "item": "deceasedcraft:bullet_casing_762x54",
+      "chance": 70
+    },
+    "bf1:mg42": {
+      "item": "deceasedcraft:bullet_casing_762x54",
+      "chance": 70
+    },
+    "bf1:rorsch_mk4": {
+      "item": "deceasedcraft:bullet_casing_30_06",
+      "chance": 60
+    },
+    "bf1:rsc1917": {
+      "item": "deceasedcraft:bullet_casing_30_06",
+      "chance": 60
+    },
+    "rebel:92g": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "rebel:c23": {
+      "item": "deceasedcraft:bullet_casing_50bmg",
+      "chance": 40
+    },
+    "suffuse:gepardpdw": {
+      "item": "deceasedcraft:bullet_casing_9mm_round",
+      "chance": 80
+    },
+    "suffuse:ar57": {
+      "item": "deceasedcraft:bullet_casing_57x28",
+      "chance": 70
+    },
+    "suffuse:axmc": {
+      "item": "deceasedcraft:bullet_casing_338",
+      "chance": 50
+    },
+    "suffuse:axsr": {
+      "item": "deceasedcraft:bullet_casing_338",
+      "chance": 50
+    },
+    "suffuse:dvl10": {
+      "item": "deceasedcraft:bullet_casing_308",
+      "chance": 60
+    },
+    "suffuse:kacpdw": {
+      "item": "deceasedcraft:bullet_casing_57x28",
+      "chance": 70
+    },
+    "suffuse:ks23m": {
+      "item": "deceasedcraft:bullet_casing_12g",
+      "chance": 60
+    },
+    "suffuse:m1895": {
+      "item": "deceasedcraft:bullet_casing_30_06",
+      "chance": 50
+    },
+    "suffuse:mas38": {
+      "item": "deceasedcraft:bullet_casing_45acp",
+      "chance": 80
+    },
+    "suffuse:mpdr": {
+      "item": "deceasedcraft:bullet_casing_556x45",
+      "chance": 70
+    },
+    "suffuse:qbz191": {
+      "item": "deceasedcraft:bullet_casing_58x42",
+      "chance": 70
+    },
+    "suffuse:rm277": {
+      "item": "deceasedcraft:bullet_casing_762x54",
+      "chance": 70
+    },
+    "suffuse:saddam_golden_ak": {
+      "item": "deceasedcraft:bullet_casing_762x39",
+      "chance": 70
+    },
+    "suffuse:svd": {
+      "item": "deceasedcraft:bullet_casing_762x54",
+      "chance": 70
+    },
+    "suffuse:webley1913": {
+      "item": "deceasedcraft:bullet_casing_45acp",
+      "chance": 80
+    },
+    "tacz:fn_evolys": {
+      "item": "deceasedcraft:bullet_casing_308",
+      "chance": 60
+    },
+    "tacz:fn_fal": {
+      "item": "deceasedcraft:bullet_casing_308",
+      "chance": 60
+    },
+    "tacz:qbz_191": {
+      "item": "deceasedcraft:bullet_casing_58x42",
+      "chance": 60
+    },
+     "rebel:rs1mahe": {
+      "item": "deceasedcraft:bullet_casing_40mm",
+      "chance": 50
+    },
+     "gz:arx200_nero": {
+      "item": "deceasedcraft:bullet_casing_308",
+      "chance": 60
+    }
+  }
+}

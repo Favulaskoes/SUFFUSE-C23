@@ -1,0 +1,1564 @@
+{
+  "Ejected Casing Data by GunId.": {
+    "tacz:rhino357": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:kar98": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:lonetrail": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:taurus943": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:taurus500": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:hk_mk23": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:m9a4": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:deagle": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:timeless50": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:glock_17": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:deagle_golden": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:m1911": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:cz75": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:b93r": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:p320": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:springfield1873": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:m700": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:ai_awp": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:m107": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:m95": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:sks_tactical": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:type_81": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:qbz_95": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:ak47": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:hk416d": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:m4a1": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:g36k": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:m16a1": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:spr15hb": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:hk_g3": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:m16a4": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:scar_l": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:scar_h": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:mk14": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:aug": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:db_short": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:db_long": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:m870": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:aa12": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:ump45": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:vector45": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:hk_mp5a5": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:uzi": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:p90": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:m249": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:rpk": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:minigun": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:tec9": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:tti2011": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:python": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:tt33": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:viper2011": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:aw50": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:gm6": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:m200": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:qbz951s": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:qbz192": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:an94": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:xm7": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:qbu191": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:n4": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:qbz951": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:ash12": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:aks74u": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:pp19": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:ump45": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:pkp": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "rebel:hsp": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "rebel:lss": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "rebel:lpm2020": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "rebel:asr": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "rebel:rs1": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "rebel:rs1mahe": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "rebel:csg19b": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:patriots": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:classic_m1a": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:m700_carbon": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:police_m4": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:t81s": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:tactical_t81s": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:m16a2": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:military_p416": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:lightweight_m4": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:black_market_akm": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:custom_p416_g3": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:m4_exotic_t1": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:auga3cqc": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:lvoa_c": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:m4_exotic_t2": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:military_ak74": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:arx200_nero": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:tactical_sasg_12k": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:cargo_terminal": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:sasg_12": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:1st_vector45acp": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:pp19_01": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:mp5st": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:tactical_pp19_01": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:enhanced_pp19": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:pp19": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:t5smg": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:aug_9mm": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:navy_mp5n": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:mp5a2": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:black_market_rpk74": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:t81lmg": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:classic_rpk74": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:obrez": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:sw_model3": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:tg1918": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:martini": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:m1916": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:vg15": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:model10": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:smg0818": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:vp1915": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:lewis": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:mg0815": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:man_m95": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:usp45": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:usp45_black": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:np762": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:spas_12": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:spas12": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:m1014": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:sjogren": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:chauchat": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:de_lisle": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:liu": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:mg42": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:rorsch_mk4": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:rsc1917": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:welrod": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "bf1:zk383": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "gz:t97nsrg3": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "rebel:92g": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "rebel:c23": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:ar57": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:axmc": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:axsrs": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:dvl10": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:gepardpdw": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:kacpdw": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:ks23m": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:m1895": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:mas38": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:mpdr": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:qbz191": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:qlu11": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:rm277": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:saddam_golden_ak": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:svd": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "suffuse:webley1913": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:fn_evolys": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:fn_fal": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    },
+    "tacz:qbz_191": {
+      "velocity": 0.2,
+      "isRight": true,
+      "rotationYawDeg": 85,
+      "rotationPitchDeg": -45,
+      "rotationRollDeg": -0.25,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "offsetZ": 1
+    }
+  }
+}
