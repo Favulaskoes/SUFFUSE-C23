@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "immersiveengineering:component_steel"
+      },
+      "count": 52
+    },
+    {
+      "item": {
+        "tag": "forge:plates/aluminum"
+      },
+      "count": 120
+    },
+    {
+      "item": {
+        "tag": "forge:plates/plastic"
+      },
+      "count": 40
+    },
+    {
+      "item": {
+        "item": "deceasedcraft:rubber"
+      },
+      "count": 60
+    },
+    {
+      "item": {
+        "item": "deceasedcraft:high_carbon_steel_alloy"
+      },
+      "count": 7
+    },
+    {
+      "item": {
+        "item": "deceasedcraft:rifle_assembly_parts"
+      },
+      "count": 17
+    },
+    {
+      "item": {
+        "item": "immersiveengineering:component_steel"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "item": "deceasedcraft:special_assembly_parts"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "rebel:c23"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}
